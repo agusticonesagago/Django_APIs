@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project contains a Dockerfile to work with Django, Celery, pgAdmin, PostgreSQL, and Redis. In addition, it consists of about three APIs to be able to log in, and sign up users with tokens to subsequently be able to access information. All this with Swagger documentation in order to have greater visibility of the REST APIs created.<p align="right">(<a href="#top">back to top</a>)</p>
+This project contains a Dockerfile to work with Django, Celery, pgAdmin, PostgreSQL, and Redis. In addition, it consists of about three APIs to be able to log in, and sign up users with tokens to subsequently be able to access information. All this with Swagger documentation in order to have greater visibility of the REST APIs created.<p align="right">
 ### Built With
 This project uses the following language and frameworks:
 * [Python](https://www.python.org/)
@@ -41,7 +41,7 @@ You need Docker and build the docker compose yml to create the project image.
 ### Installation
 1. Download Docker
 2. Clone the repo
-3. Build the Docker image <p align="right">(<a href="#top">back to top</a>)</p>
+3. Build the Docker image
 
 
 <!-- USAGE EXAMPLES -->
